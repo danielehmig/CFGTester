@@ -1,0 +1,10 @@
+1)
+	S->ASA|aB;A->B|S;B->b|$;
+2)
+	S->Aa;A->a|b|AA|$; 
+3)
+	B->aBc|C;C->Cb|$;
+4)
+	A->aAa|b;
+5)
+	S->AB|b;A->CC|a;B->b|BB;C->SS|a;
